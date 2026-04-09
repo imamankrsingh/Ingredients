@@ -3,7 +3,7 @@
 A modern and responsive **Food Delivery Website** built using **HTML, CSS, JavaScript, Swiper.js, and GSAP ScrollTrigger**.  
 The website is designed to help users discover and explore delicious food items with an attractive UI, smooth animations, and responsive design.  
 
-https://food-3hc8bsc10-pintu-kumar-1709s-projects.vercel.app/
+https://food-3hc8bsc10-aman-kumar-1709s-projects.vercel.app/
 ---
 
 ## 🚀 Tech Stack
